@@ -1,0 +1,8 @@
+versions: myenv, binderenv, myenvextras
+dependencies:
+  - python==3.12.7 #
+  - pip==24.2 #
+  - pip: 
+    - voila==0.5.8 #, 
+    - fastai==2.7.17 #
+    - ipywidgets==8.2.5 #
